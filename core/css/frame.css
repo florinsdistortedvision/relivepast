@@ -1,0 +1,11 @@
+/*
+**  RelivePast frame adjustments
+*/
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    background-attachment: fixed;
+    background: var(--background);
+}

@@ -1,0 +1,14 @@
+/*
+**  RelivePast fonts used by branding and content
+*/
+
+/* Main Font: Raleway */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Dotted Font: Raleway Dots*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --rp-font: "Raleway", sans-serif;
+    --rp-dotted: "Raleway Dots", sans-serif;
+}

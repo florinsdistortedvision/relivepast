@@ -1,0 +1,24 @@
+/*
+**  RelivePast color scheme with
+**  automatic theme switching scenario
+*/
+:root {
+    --rp-light-theme-background: linear-gradient(to bottom, white 0%, #E7E7E7 100%);
+    --rp-light-theme-grey: #434040;
+    --rp-dark-theme-background: linear-gradient(to bottom, #404040 0%, #161616 100%);
+    --rp-dark-theme-grey: #DBDBDB;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --background: var(--rp-light-theme-background);
+        --accent: var(--rp-light-theme-grey);
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+:root {
+    --background: var(--rp-dark-theme-background);
+    --accent: var(--rp-dark-theme-grey);
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "january": {
+        "news": {
+            "1": ["Nokia unveils the Lumia 900, exclusive to carrier AT&T", "https://www.gsmarena.com/ltepacking_nokia_lumia_900_finally_goes_official_exclusive_to_at_t-news-3647.php"],
+            "2": ["Costa Concordia ship hits rock, off Italian coast", "https://www.vanityfair.com/culture/2012/05/costa-concordia-sinking-scandal-italy"],
+            "3": ["Lionel Messi wins FIFA Ballon d'Or for the 3rd time", "https://www.theguardian.com/football/2012/jan/09/lionel-messi-fifa-ballon-dor"]
+        },
+        "movies": {
+            "1": ["Contraband, has enough action to be #1", "https://www.youtube.com/watch?v=Rp0b5ZXIUvE"],
+            "2": ["The Devil Inside, scares its way to the top", "https://www.youtube.com/watch?v=MVpcszlYT7s"],
+            "3": ["Beauty and the Beast, premieres again, in 3D", "https://www.youtube.com/watch?v=xD5pcGp62ec"]
+        },
+        "music": {
+            "1": ["Lana Del Rey shocks critics with 'Born To Die'", "https://www.youtube.com/watch?v=9zrvD-o8cII"],
+            "2": ["Schoolboy Q pleases fans with 'Habits & Contradictions'", "https://www.youtube.com/watch?v=dGd9DTTrX4U"],
+            "3": ["Steve Aoki ups the party with 'Wonderland'", "https://www.youtube.com/watch?v=TKjM6zi_5zs"]
+        },
+        "games": {
+            "1": ["Soulcalibur V releases weapon-blazing", "https://www.youtube.com/watch?v=JuPrhjMXFiI"],
+            "2": ["Final Fantasy XIII-2, loved by critics, out now", "https://www.youtube.com/watch?v=DHjI94aahEc"],
+            "3": ["Resident Evil: Revelations, killer 3DS game?", "https://www.youtube.com/watch?v=pgSF2aY9MtM"]
+        },
+        "pics": {
+            "1": ["Acer unveils world thinnest ultrabook", "https://techcrunch.com/wp-content/uploads/2012/01/acer-aspire_s5-580x431.jpeg", "https://techcrunch.com/2012/01/08/acer-unveils-thinnest-ultrabook-at-15mm-the-aspire-s5/"],
+            "2": ["Snowing in January or just a white dream ?", "https://priroda.club/uploads/posts/2023-12/1703201289_priroda-club-p-seredina-zimi-krasivo-5.jpg"]
+        }
+    },
+    "february": {
+        "news": {
+            "1": ["Windows Phone 8, codename 'Apollo', leaks online", "https://www.theverge.com/microsoft/2012/2/2/2766809/windows-phone-8-apollo-features"],
+            "2": ["Queen Elizabeth II celebrates Diamond Jubilee", "https://www.royal.uk/queens-diamond-jubilee-message"],
+            "3": ["Adele wows the Grammys, wins Song of The Year - 6 total awards", "https://www.dw.com/en/adele-steals-show-at-poignant-grammy-ceremony/a-15738589"]
+        },
+        "movies": {
+            "1": ["The Vow, wins everyone's heart, becoming #1", "https://www.youtube.com/watch?v=PcL24s-S6ns"],
+            "2": ["Safe House, CIA level action, out now", "https://www.youtube.com/watch?v=1IfQY4fNcnw"],
+            "3": ["Star Wars Episode I, now in 3D, brings new and old fans togheter", "https://www.youtube.com/watch?v=PhIwBKtj9W8"]
+        },
+        "music": {
+            "1": ["GarageBand-made 'Visions' by Grimes, releases", "https://www.youtube.com/watch?v=WizNXQGBMEk"],
+            "2": ["Lil Ugly Mane shakes the underground with 'Mista Thug Isolation'","https://www.youtube.com/watch?v=F-5flioLfkc"],
+            "3": ["Gorillaz releases 13 minute jam 'DoYaThing'", "https://www.youtube.com/watch?v=36DCuT1KxM4"]
+        },
+        "games": {
+            "1": ["Uncharted: Golden Abyss shows off the power of PS Vita", "https://www.youtube.com/watch?v=YHDezyb6vhk"],
+            "2": ["The Darkness II, more supernatural horror, more fun", "https://www.youtube.com/watch?v=ZC2atrPuiAY"],
+            "3": ["Rhythm Heaven Fever proves the Wii has a lot of motion", "https://www.youtube.com/watch?app=desktop&v=Y7g3TvjZj3g"]
+        },
+        "pics": {
+            "1": ["Sony releases PSP successor, the PlayStation Vita", "https://technologizer.com/wp-content/uploads/2012/02/psvita.png" ,"https://technologizer.com/2012/02/08/playstation-vita-launch/index.html"],
+            "2": ["Final snow of the year or still keeping my boots?", "https://c.wallhere.com/photos/08/8d/england_cold_river_bush_december_searchthebest_frosty_february-1125468.jpg!d"]
+        }
+    },
+    "march": {
+        "news": {
+            "1": ["No more Android Market, Google Play in place", "https://www.cbc.ca/news/science/android-market-renamed-google-play-1.1213207"],
+            "2": ["Kony 2012 documentary releases on YouTube", "https://www.youtube.com/watch?v=Y4MnpzG5Sqc"],
+            "3": ["Vladimir Putin wins Russian election, amid fraud allegations", "https://www.washingtonpost.com/world/russians-voting--and-watching/2012/03/04/gIQA3j6CqR_story.html"]
+        },
+        "movies": {
+            "1": ["The Hunger Games, hungry for #1 place", "https://www.youtube.com/watch?v=mfmrPu43DF8"],
+            "2": ["Project X makes every party look lame", "https://www.youtube.com/watch?v=p8_U0n2oIHA"],
+            "3": ["21 Jump Street's comedy is loved by fans", "https://www.youtube.com/watch?v=Oj55KinxZx4"]
+        },
+        "music": {
+            "1": ["'Back from the Dead' by Chief Keef shakes the streets", "https://www.youtube.com/watch?v=I8ci2qi-Iys"],
+            "2": ["Madonna is back with new party-centric LP 'MDNA'", "https://www.youtube.com/watch?v=tYkwziTrv5o"],
+            "3": ["Odd Future collective group drops 'The OF Tape Vol. 2'","https://www.youtube.com/watch?v=fzi24Nssiow"]
+        },
+        "games": {
+            "1": ["Mass Effect 3 releases as highly anticipated final of trilogy", "https://www.youtube.com/watch?v=AluTOOCVXVQ"],
+            "2": ["Journey, indie hit, tops PSN best selling charts", "https://www.youtube.com/watch?v=61DZC-60x20"],
+            "3": ["Mario Party 9 releases as fans crave for more", "https://www.youtube.com/watch?v=w29QV4Bsf14"]
+        },
+        "pics": {
+            "1": ["Apple reveals the iPad with a crisp Retina display", "https://bgr.com/wp-content/uploads/2012/03/apple-new-ipad.jpg?quality=100" ,"https://bgr.com/general/ipad-hd-is-here-retina-display-and-more/"],
+            "2": ["Snow gone, welcome green grass and clovers", "https://c.wallhere.com/photos/53/2e/plants_leaves_drops_form_size-673904.jpg!d"]
+        }
+    },
+    "april": {
+        "news": {
+            "1": ["2 years after iOS release, Instagram hits Android", "https://blog.gsmarena.com/instagram-for-android-is-now-available-for-download/"],
+            "2": ["North Korean satellite explodes after launch", "https://www.voanews.com/a/north-korea-admits-rocket-fails-shortly-after-launch-147283565/179252.html"],
+            "3": ["Tupac hologram shocks fans at Coachella concert", "https://www.youtube.com/watch?v=TGbrFmPBV0Y"]
+        },
+        "movies": {
+            "1": ["Think Like a Man takes #1 place after Steve Harvey's advice", "https://www.youtube.com/watch?v=vxTN4eX4Vss"],
+            "2": ["Titanic makes people cry again, releasing in 3D", "https://www.youtube.com/watch?v=kVrqfYjkTdQ"],
+            "3": ["American Reunion reunites American Pie fans", "https://www.youtube.com/watch?v=1akixU65dDY"]
+        },
+        "music": {
+            "1": ["Death Grips industrial album 'The Money Store', releases", "https://www.youtube.com/watch?v=uoZgZT4DGSY"],
+            "2": ["Nicki Minaj's 'Pink Friday: Roman Reloaded', killer for Barbs", "https://www.youtube.com/watch?v=SeIJmciN8mo"],
+            "3": ["Marina and the Diamonds releases club-ready album 'Electra Heart'", "https://www.youtube.com/watch?v=4dnqwuRYpys"]
+        },
+        "games": {
+            "1": ["The Walking Dead game adaptation becomes a hit", "https://www.youtube.com/watch?v=N40uY51s5Z0"],
+            "2": ["Candy Crush Saga, must play game for your phone", "https://www.youtube.com/watch?v=8TIeNDnJiN8"],
+            "3": ["Xenoblade Chronicles finally debuts in USA", "https://www.youtube.com/watch?v=c2wr25H5SpE"]
+        },
+        "pics": {
+            "1": ["Futuristic glasses 'Project Glass' demoed by Google", "https://static01.nyt.com/images/2012/04/03/technology/bits-projectglass/bits-projectglass-tmagArticle.jpg" ,"https://archive.nytimes.com/bits.blogs.nytimes.com/2012/04/04/google-begins-testing-its-augmented-reality-glasses/"],
+            "2": ["Warm enough to ride my bike?" , "https://klau.club/uploads/posts/2023-03/1678213008_klau-club-p-letnie-derevya-vkontakte-11.jpg"]
+        }
+    },
+    "may": {
+        "news": {
+            "1": ["Samsung announces its flagship phone, Galaxy S III", "https://newatlas.com/samsung-galaxy-s3/22427/"],
+            "2": ["Chelsea wins UEFA Champions League cup, beating Bayern Munich", "https://www.uefa.com/uefachampionsleague/news/0250-0c50fb78a384-1434bbcadbcb-1000--shoot-out-win-ends-chelsea-s-long-wait-for-glory/"],
+            "3": ["SpaceX Dragon, first commercial craft to dock at ISS", "https://www.nytimes.com/2012/05/26/science/space/space-x-capsule-docks-at-space-station.html"]
+        },
+        "movies": {
+            "1": ["The Avengers come together to reach #1", "https://www.youtube.com/watch?v=eOrNdBpGMv8"],
+            "2": ["The Dictator, loves to opress, loves to impress", "https://www.youtube.com/watch?v=cYplvwBvGA4"],
+            "3": ["Men in Black³, back in black, for the 3rd time", "https://www.youtube.com/watch?v=IyaFEBI_L24"]
+        },
+        "music": {
+            "1": ["'What We Saw From The Cheap Seats' by Regina Spektor, rocks the charts", "https://www.youtube.com/watch?v=mi6j48HOLBI"],
+            "2": ["'I Love It' by Icona Pop, a track that starts the summer, early", "https://www.youtube.com/watch?v=UxxajLWwzqY"],
+            "3": ["Beach House's 'Bloom' album is full of lights and full of bangers", "https://www.youtube.com/watch?v=FuvWc3ToDHg"]
+        },
+        "games": {
+            "1": ["Max Payne is back with Max Payne 3, out now on all plaforms", "https://www.youtube.com/watch?v=4Uc_dbG7MR8"],
+            "2": ["Minecraft mines its way into Xbox 360's XBLA, today", "https://www.youtube.com/watch?v=JZ37aH7s16U"],
+            "3": ["Capcom debuts Dragon's Dogma, hopes to do numbers", "https://www.youtube.com/watch?v=tgkg5I6fzOs"]
+        },
+        "pics": {
+            "1": ["Tokyo Skytree, world tallest tower, is opened to the public", "https://i2-prod.mirror.co.uk/incoming/article843444.ece/ALTERNATES/s1200d/A%20view%20of%20Tokyo%20Skytree,%20the%20world's%20tallest%20broadcasting%20tower%20at%20634%20metres%20in%20Tokyo", "https://www.mirror.co.uk/news/world-news/tokyo-sky-tree---the-worlds-843495"],
+            "2": ["Too windy or just right to fly my kite today?", "https://polinka.top/uploads/posts/2023-06/1686777618_polinka-top-p-makovoe-pole-kartinki-pinterest-41.jpg"]
+        }
+    },
+    "june": {
+        "news": {
+            "1": ["Google's new lineup: Nexus 7 + Android Jelly Bean", "https://www.anandtech.com/show/6048/google-makes-asus-supplied-nexus-7-tablet-official"],
+            "2": ["Poland 1-1 Greece, kicks off UEFA Euro 2012", "https://www.theguardian.com/football/2012/jun/08/euro-2012-poland-greece-live"],
+            "3": ["Radiohead stage collapses, kills one person", "https://www.theguardian.com/music/2012/jun/16/radiohead-stage-collapses-toronto"]
+        },
+        "movies": {
+            "1": ["Madagascar 3: Europe's Most Wanted, is also US most wanted", "https://www.youtube.com/watch?v=laNiRXqh82Q"],
+            "2": ["The Amazing Spider-Man, releases in theaters in huge anticipation", "https://www.youtube.com/watch?v=-tnxzJ0SSOw"],
+            "3": ["Snow White and the Huntsman, a non-animated tale, proves success", "https://www.youtube.com/watch?v=F9cBVm9gtKU"]
+        },
+        "music": {
+            "1": ["Joey Bada$$'s '1999', a must-hear boombap album, releases today", "https://www.youtube.com/watch?v=DDWAk8-leVA"],
+            "2": ["OF member Frank Ocean, releases a 10 minute banger, 'Pyramids'", "https://www.youtube.com/watch?v=2V8LdJOHWeE"],
+            "3": ["Fiona Apple releases powerful, art-pop 'The Idler Wheel...'", "https://www.youtube.com/watch?v=bIlLq4BqGdg"]
+        },
+        "games": {
+            "1": ["Wild, over-the-top, girlie hit Lollipop Chainsaw, drops today", "https://www.youtube.com/watch?v=d9pBDdncfDQ"],
+            "2": ["Gravity-bending Vita exclusive, Gravity Rush, pleases critics", "https://www.youtube.com/watch?v=5Q-p-41_V4Y"],
+            "3": ["Spec Ops: The Line's FUBAR difficulty frustrates hardcore gamers", "https://www.youtube.com/watch?v=RpRRpctDnTA"]
+        },
+        "pics": {
+            "1": ["Apple ditches Google Maps, for it's own Maps app", "https://duet-cdn.vox-cdn.com/thumbor/0x0:600x397/2400x1600/filters:focal(300x198:301x199):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/12797605/apple-wwdc-2012-_1057.1419969663.jpeg" ,"https://www.theverge.com/2012/6/11/3076745/apple-maps-google-maps-replacement"],
+            "2": ["Summer is in, but too early for flip-flops?", "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c57312dd-601f-4448-974c-10201dadee8e/djdgim-e820ad7e-3b03-4ee9-b868-9a7753dd12ec.jpg"]
+        }
+    },
+    "july": {
+        "news": {
+            "1": ["Android-based Ouya, smashes record sales in Kickstarter history", "https://www.polygon.com/gaming/2012/7/10/3149813/ouya-console-meets-950000-kickstarter-funding-goal-in-8-hours"],
+            "2": ["UK is hosting its 3rd Olympic Summer Games in London", "https://www.sparksdirect.co.uk/blog/the-2012-olympics-london-is-hosting-the-olympics-the-third-time"],
+            "3": ["Kim Jong-un is appointed as Supreme Leader of North Korea", "https://www.dw.com/en/kim-jong-un-named-top-military-official/a-16103833"]
+        },
+        "movies": {
+            "1": ["The Dark Knight Rises, rises quickly to the #1 spot", "https://www.youtube.com/watch?v=GokKUqLcvD8"],
+            "2": ["Ice Age: Continental Drift leads Manny, Diego and Sid to a new journey", "https://www.youtube.com/watch?v=xz-KgMtU_BM"],
+            "3": ["Savages, Mexican cartel, kidnappings, everything needed for success", "https://www.youtube.com/watch?v=xXNxKwAKGpw"]
+        },
+        "music": {
+            "1": ["Frank Ocean releases 'channel ORANGE', topping the charts", "https://www.youtube.com/watch?v=2oETJdjxKY4"],
+            "2": ["PSY becomes an Internet icon with 'Gangnam Style'", "https://www.youtube.com/watch?v=9bZkp7q19f0"],
+            "3": ["Nas is back with 'Life is Good', pleasing old school fans", "https://www.youtube.com/watch?v=446OTXgP308"]
+        },
+        "games": {
+            "1": ["Sega's classic RPG returns with Phantasy Star Online 2, in Japan", "https://www.youtube.com/watch?v=bm1ZPgxStE4"],
+            "2": ["3DS exclusive Kingdom Hearts 3D: Dream Drop Distance, drops today", "https://www.youtube.com/watch?v=T6iV3MZQPeI"],
+            "3": ["Tony Hawk's Pro Skater HD, a timeless classic, remade for XBLA", "https://www.youtube.com/watch?v=fXkW_FY1SMg"]
+        },
+        "pics": {
+            "1": ["Spain wins UEFA Euro 2012, beating Italy, 3rd tournament win in a row", "https://upload.wikimedia.org/wikipedia/commons/3/36/Spain_national_football_team_Euro_2012_trophy_02.jpg" ,"https://www.uefa.com/uefaeuro/history/news/0252-0cdc4f07099d-36a02f333f87-1000--spain-overpower-exhausted-italy-to-win-uefa-euro-2012-final/"],
+            "2": ["Heat is too much this month or great for the beach?", "https://media.voog.com/0000/0040/4993/photos/457009-1_huge.jpg"]
+        }
+    },
+    "august": {
+        "news": {
+            "1": ["Samsung releases Galaxy Camera, a camera running Android", "https://www.ephotozine.com/article/samsung-galaxy-camera-hands-on-preview-19990"], 
+            "2": ["WikiLeaks founder granted political asylum by Ecuador", "https://www.bbc.com/news/uk-19281492"],
+            "3": ["Andy Roddick announces retirement after US Open", "https://www.espn.com/tennis/usopen12/story/_/id/8318970/andy-roddick-announces-retire-2012-open"]
+        },
+        "movies": {
+            "1": ["The Bourne Legacy, sets a new legacy as #1 spot", "https://www.youtube.com/watch?v=jSzy9qQ3mDE"],
+            "2": ["The Campaign makes fun of everything presidential", "https://www.youtube.com/watch?v=4qQ6UcU_JiE"],
+            "3": ["Diary of a Wimpy Kid: Dog Days sets the scene for summer", "https://www.youtube.com/watch?v=1-ixtBsoq2M"]
+        },
+        "music": {
+            "1": ["'Based on a T.R.U. Story' by 2-Chainz, kicks off charts", "https://www.youtube.com/watch?v=Y34jC4I1m70"],
+            "2": ["Owl City's 'The Midsummer Station' sparks a good time", "https://www.youtube.com/watch?v=H7HmzwI67ec"],
+            "3": ["Puerto Rican star Ivy Queen drops 'Musa' album", "https://www.youtube.com/watch?v=Nn4SYuISdII"]
+        },
+        "games": {
+            "1": ["Valve is back with Counter Strike: Global Offensive", "https://www.youtube.com/watch?v=edYCtaNueQY"],
+            "2": ["Square Enix drops GTA-like game, Sleeping Dogs", "https://www.youtube.com/watch?v=lbGs8AJyT_Y"],
+            "3": ["Persona 4 returns, with a fighting spinoff, Arena", "https://www.youtube.com/watch?v=esQXF9UGFw0"]
+        },
+        "pics": {
+            "1": ["Microsoft completes Windows 8 development, now in RTM", "https://ohryan.ca/wp-content/uploads/2012/11/AccessingSystemCommands_Print.jpg", "https://www.theverge.com/2012/8/1/3188541/windows-8-rtm-development-complete"],
+            "2": ["Watch out for heat waves, stay indoors as long as you can", "https://upload.wikimedia.org/wikipedia/commons/0/08/Namibie_Namib_Naukluft_Park_Sunset_01.JPG"]
+        }
+    },
+    "september": {
+        "news": {
+            "1": ["Apple officially announces highly anticipated iPhone 5", "https://www.latimes.com/business/technology/la-fi-tn-apple-iphone-5-announced-20120911-story.html"],
+            "2": ["King Richard III's remains discovered in Leicester", "https://le.ac.uk/richard-iii/discovery/locating-the-remains"],
+            "3": ["Novel coronavirus infection in United Kingdom", "https://www.emro.who.int/media/news/novel-coronavirus-infection-united-kingdom.html"]
+        },
+        "movies": {
+            "1": ["Hotel Transylvania makes Dracula #1 again", "https://www.youtube.com/watch?v=q4RK3jY7AVk"],
+            "2": ["Resident Evil: Retribution proves not just the games are great", "https://www.youtube.com/watch?v=hoyMT-7wEqs"],
+            "3": ["Finding Nemo, now in 3D, makes you almost breathe underwater", "https://www.youtube.com/watch?v=SPHfeNgogVs"]
+        },
+        "music": {
+            "1": ["Kanye's GOOD Music label drops 'Cruel Summer', full of bangers", "https://www.youtube.com/watch?v=Oxr9XWogBQA"],
+            "2": ["Carly Rae Jepsen releases 'Kiss' album, something worth calling for", "https://www.youtube.com/watch?v=fWNaR-rxAic"],
+            "3": ["Imagine Dragons debut album 'Night Visions' seems radioactive hot", "https://www.youtube.com/watch?v=CAEUnn0HNLM"]
+        },
+        "games": {
+            "1": ["Bordelands sequel releases today as fans are excited", "https://www.youtube.com/watch?v=ERe3wZdIAtc"],
+            "2": ["It's Kirby Sunday! Wii exclusive, Kirby's Dream Collection, out now", "https://www.youtube.com/watch?v=nA6cqE5gDIs"],
+            "3": ["Blizzard releases Mists of Pandaria WOW expansion today", "https://www.youtube.com/watch?v=6pU9EG91FUU"]
+        },
+        "pics": {
+            "1": ["Apple CEO Tim Cook issues public apology for Apple Maps service", "https://i.insider.com/522f42ce6da811d4014b398f" ,"https://www.theguardian.com/technology/2012/sep/28/apple-maps-tim-cook-apology"],
+            "2": ["Summer faded away or still shorts time?", "https://i0.wp.com/www.mountainphotography.com/images/xl/20120928-Chimney-Rock-Sunset.jpg?ssl=1"]
+        }
+    },
+    "october": {
+        "news": {
+            "1": ["Microsoft releases tablet friendly, Windows 8 to the public", "https://www.nbcnews.com/tech/gadgets/microsoft-launches-windows-8-flna1c6684802"],
+            "2": ["Hurricane Sandy strucks the Carribean, United States and Canada", "https://edition.cnn.com/2012/10/30/us/tropical-weather-sandy/index.html"],
+            "3": ["Walt Disney purchases Lucasfilm, rights for Star Wars and Indiana Jones", "https://www.bbc.com/news/business-20146942"]
+        },
+        "movies": {
+            "1": ["Taken 2, takes place in Istanbul, takes #1 spot, for the second time", "https://www.youtube.com/watch?v=U3T9PD5IGjI"],
+            "2": ["Argo, US crisis in Iran, 70s, history brings people to theaters", "https://www.youtube.com/watch?v=JW3WfSFgrVY"],
+            "3": ["Paranormal Activity 4 is proof people can't have enough ghosts", "https://www.youtube.com/watch?v=89PboIQlu1c"]
+        },
+        "music": {
+            "1": ["Kendrick Lamar drops powerful concept album 'good kid, m.A.A.d city'", "https://www.youtube.com/watch?v=10yrPDf92hY"],
+            "2": ["Taylor Swift's 'Red' brings in more Swifties to her fanbase", "https://www.youtube.com/watch?v=WA4iX5D9Z64"],
+            "3": ["Tame Impala's 'Lonerism' feels already nostalgic, out today", "https://www.youtube.com/watch?v=wycjnCCgUes"]
+        },
+        "games": {
+            "1": ["Ubisoft's Assasin's Creed franchise gets a triple, out now", "https://www.youtube.com/watch?v=pAb-Joqhrz8"],
+            "2": ["6 games already? Resident Evil 6 drops today, on PS3 and X360", "https://www.youtube.com/watch?v=sS_bGpe9qE8"],
+            "3": ["1 new year, 2 Pokemon games. Pokemon Black and White 2, now on DS", "https://www.youtube.com/watch?v=T1hwoEj_TFw"]
+        },
+        "pics": {
+            "1": ["Steve Jobs opposed, Tim approved. iPad mini announced today", "https://fdn.gsmarena.com/vv/newsimg/12/10/apple-ipad-mini/gsmarena_013.jpg" ,"https://www.gsmarena.com/apple_introduces_7ich_ipad_mini-news-4987.php"],
+            "2": ["Hot October? Bike-riding weather?", "https://i.pinimg.com/originals/71/c1/9f/71c19f1092f5955e8b1bb94f3648920c.jpg"]
+        }
+    },
+    "november": {
+        "news": {
+            "1": ["Nintendo releases tablet-centric console, the Wii U", "https://www.theguardian.com/technology/2012/nov/29/wii-u-launch-uk-nintendo"],
+            "2": ["President Barack Obama is reelected as President of United States", "https://www.bbc.com/news/world-us-canada-20233064"],
+            "3": ["Justin Bieber wins artist of the year at AMA", "https://www.theguardian.com/music/2012/nov/19/justin-bieber-american-music-awards"]
+        },
+        "movies": {
+            "1": ["The Twilight Saga: Breaking Dawn - Part 2 clocks in at #1 spot", "https://www.youtube.com/watch?v=Ocz50YJOFTM"],
+            "2": ["It's Bond. James Bond. Skyfall proves people can't get enough of him", "https://www.youtube.com/watch?v=6kw1UVovByw"],
+            "3": ["Wreck-It Ralph brings in kids and adults together", "https://www.youtube.com/watch?v=87E6N7ToCxs"]
+        },
+        "music": {
+            "1": ["Rihanna doesn't need to apologize for dropping 'Unapologetic'", "https://www.youtube.com/watch?v=lWA2pjMjpBs"],
+            "2": ["Underground sensation The Weeknd drops first album 'Trilogy'", "https://www.youtube.com/watch?v=sX9DgavXiN4"],
+            "3": ["One Direction's 'Take Me Home' makes us wish we were English", "https://www.youtube.com/watch?v=ongdZx_uvnM"]
+        },
+        "games": {
+            "1": ["First non-Bungie Halo game releases today, Halo 4", "https://www.youtube.com/watch?v=DIspQ1NmGf4"],
+            "2": ["New Nintendo console, new Mario game. New Super Mario Bros. U, now", "https://www.youtube.com/watch?v=7kD-F48Tdbs"],
+            "3": ["Tropical wonderland, almost. Far Cry 3 now out on all platforms", "https://www.youtube.com/watch?v=wEZfi1QfdIE"]
+        },
+        "pics": {
+            "1": ["Total solar eclipse occurs in parts of Australia and South Pacific.", "https://eclipse.gsfc.nasa.gov/SEmono/TSE2012/TSE2012fig/TSE2012pp2a.JPG" ,"https://eclipsewise.com/solar/SEprime/2001-2100/SE2012Nov13Tprime.html"],
+            "2": ["Rain all month? Need to buy a raincoat?", "https://i.pinimg.com/originals/ff/7e/41/ff7e41764a7b12bbe904c5ff4105bbbd.jpg"]
+        }
+    },
+    "december": {
+        "news": {
+            "1": ["Pebble smartwatch delayed again, not coming these holidays", "https://www.theverge.com/2012/12/7/3741478/pebble-smartwatch-holiday-shipment-delay"],
+            "2": ["Gunman kills 20 children in Sandy Hook Elementary School shooting", "https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html"],
+            "3": ["Gangnam Style by PSY, first 1 billion views YouTube video", "https://www.guinnessworldrecords.com/news/2012/12/psys-gangnam-style-becomes-first-video-to-be-viewed-1-billion-times-on-youtube-46462"]
+        },
+        "movies": {
+            "1": ["The Hobbit: An Unexpected Journey ranks #1 spot", "https://www.youtube.com/watch?v=9PSXjr1gbjc"],
+            "2": ["Les Misérables proves we need more 19th century France movies", "https://www.youtube.com/watch?v=YmvHzCLP6ug"],
+            "3": ["Django Unchained is everything Western needed to succeed", "https://www.youtube.com/watch?v=0fUCuvNlOCg"]
+        },
+        "music": {
+            "1": ["Chief Keef's 'Finally Rich' is why everybody loves Sosa", "https://www.youtube.com/watch?v=YWyHZNBz6FE"],
+            "2": ["Bruno Mars releases 'Unorthodox Jukebox', packed-full of jams", "https://www.youtube.com/watch?v=e-fA-gBCkj0"],
+            "3": ["People have not forgotten about Green Day, as it drops '¡Tré!'", "https://www.youtube.com/watch?v=5Rs2m3lhg-k"]
+        },
+        "games": {
+            "1": ["Modern Combat 4: Zero Hour shows phones have what it takes for AAA games", "https://www.youtube.com/watch?v=VcSx3veNFZA"],
+            "2": ["80s set classic, GTA Vice City drops on iOS and Android for 10th anniversary", "https://www.youtube.com/watch?v=m8oQllwqw_I"],
+            "3": ["F1 2012 releases on Mac OS X, 2 months after other platforms", "https://www.redmondpie.com/f1-2012-for-mac-now-available-to-download/"]
+        },
+        "pics": {
+            "1": ["Will the world end in December of 2012? Doomsday explained", "https://i.natgeofe.com/n/362329c5-e637-42b6-a597-0870c4ca007d/45983.jpg?w=718&h=539", "https://www.nationalgeographic.com/science/article/111220-end-of-world-2012-maya-calendar-explained-ancient-science"],
+            "2": ["Will it snow this December? Cold without snow?", "https://images.fineartamerica.com/images-medium-large-5/december-landscape-luke-moore.jpg"]
+        }
+    },
+    "christmas": {
+        "news": {
+            "1": ["Merry Christmas and Happy Holidays from RelivePast!", "https://www.youtube.com/watch?v=ONyXSnL2LtA"],
+            "2": ["Queen Elizabeth II delivers her annual Royal Christmas Message", "https://www.paralympic.org/news/queen-pay-tribute-paralympic-stars"], 
+            "3": ["What did Santa bring you this awesome Christmas?", "https://www.theguardian.com/lifeandstyle/2012/jan/06/children-talking-christmas-presents"]
+        },
+        "movies": {
+            "1": ["A Christmas Story is all you need this Christmas", "https://www.youtube.com/watch?v=ns1ZVvGfPig"],
+            "2": ["It's a A Charlie Brown Christmas, Charlie Brown", "https://www.youtube.com/watch?v=34POOFRtHHc"],
+            "3": ["Watch Home Alone home alone for the best experience. Or with anyone really", "https://www.youtube.com/watch?v=bAlHIbPvtcw"]
+        },
+        "music": {
+            "1": ["Frank Sinatra's 'A Jolly Christmas From Frank Sinatra' is the start of Christmas", "https://www.youtube.com/watch?v=FYLuKp3qSMQ"],
+            "2": ["It's not real magic until Nat King Cole's 'The Magic of Christmas' is on the radio", "https://www.youtube.com/watch?v=IirR7z_024Q"],
+            "3": ["All I want for Christmas is 'Merry Christmas' by Mariah Carey", "https://www.youtube.com/watch?v=yXQViqx6GMY"]
+        },
+        "games": {
+            "1": ["Santa Claus in Trouble is the Christmas arcade game you need to play", "https://www.youtube.com/watch?v=BAVYivfCdLg"],
+            "2": ["Christmas NiGHTS into Dreams... is a 'Merry Christmas' from SEGA", "https://www.youtube.com/watch?v=mT0UxybRoF4"],
+            "3": ["Daze Before Christmas is a 90s underrated Christmas spirit classic", "https://www.youtube.com/watch?v=nMQY_P2zplY"]
+        },
+        "pics": {
+            "1": ["Merry Christmas", "https://images3.alphacoders.com/101/101287.jpg"],
+            "2": ["And a Happy New Year", "https://wallpaper.forfun.com/fetch/f1/f1779030e5b125c617d4340a3e51c423.jpeg"]
+        }
+    }
+}
