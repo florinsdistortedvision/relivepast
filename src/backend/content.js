@@ -15,12 +15,12 @@ export function getContent() {
 
   let contentMonth = Object.keys(content);
 
-  if (day !== "16" && contentMonth.includes(currentMonth)) {
+  if (day !== "25" && contentMonth.includes(currentMonth)) {
     let month = content[currentMonth];
 
     return month;
   }
-  if (day === "16" && currentMonth === "december") {
+  if (day === "25" && currentMonth === "december") {
     let month = content["christmas"];
 
     return month;
