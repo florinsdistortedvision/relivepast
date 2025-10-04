@@ -145,6 +145,7 @@
 
     & .news-section {
       flex-grow: 10;
+      margin-right: -200px;
 
       & h2 {
         font-size: 26px;
