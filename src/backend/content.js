@@ -15,10 +15,8 @@ export function getContent() {
 
   let contentMonth = Object.keys(content);
 
-  if (day === 25 && currentMonth === "december") {
-    let month = content["christmas"];
-
-    return month;
+  if (currentMonth === "december" && day >= 20 && day <= 25) {
+    return content["christmas"];
   } else {
     return content[currentMonth];
   }
